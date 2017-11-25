@@ -1,0 +1,33 @@
+{
+	"messages": [
+		
+	
+      
+      {"text": "Welcome to the DarkSide!!"},
+
+      {"attachment": { "type": "image", "payload": {"url": "https://arvee.azurewebsites.net/images/1.png" }}},
+      {"attachment": { "type": "video", "payload": {"url": "https://arvee.azurewebsites.net/images/video.mp4"}}},
+      {"attachment": { "type": "file",  "payload": {"url": "https://arvee.azurewebsites.net/images/chia.pdf"}}},
+      
+      
+      
+      {
+      "text": "What would you like to do next?",
+      "quick_replies": [
+        {
+          "title":"Loved it!",
+	        "set_attributes": {"arvee": "flow1.arvee.my"},
+          "block_names": ["flow"]
+        },
+        {
+          "title":"Loved it!",
+          "set_attributes": {"arvee": "flow2.arvee.my"},
+          "block_names": ["flow"]
+        }
+      ]
+      }
+      
+      
+      
+	]
+}
