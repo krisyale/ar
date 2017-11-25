@@ -18,12 +18,12 @@
         {
           "title":"Loved it!",
 	        "set_attributes": {"arvee": "flow1.arvee.my"},
-          "block_names": ["flow"]
+          "block_names": ["flowGit"]
         },
         {
           "title":"Loved it!",
           "set_attributes": {"arvee": "flow2.arvee.my"},
-          "block_names": ["flow"]
+          "block_names": ["flowGit"]
         }
       ]
       }
