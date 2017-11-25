@@ -3,7 +3,7 @@
 		
 	
       
-      {"text": "Welcome {{first name}}!!"},
+      {"text": "Welcome to {{first name}}!!"},
 
       {"attachment": { "type": "file",  "payload": {"url": "https://raw.githubusercontent.com/krisyale/arvee/master/chia.pdf"}}},
       {"attachment": { "type": "audio",  "payload": {"url": "https://raw.githubusercontent.com/krisyale/arvee/master/2.mp3"}}},
