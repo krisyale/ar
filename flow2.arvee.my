@@ -7,6 +7,7 @@
 
       {"attachment": { "type": "file",  "payload": {"url": "https://raw.githubusercontent.com/krisyale/arvee/master/chia.pdf"}}},
       {"attachment": { "type": "audio",  "payload": {"url": "https://raw.githubusercontent.com/krisyale/arvee/master/2.mp3"}}},
+      {"attachment": { "type": "audio",  "payload": {"url": "https://arvee.azurewebsites.net/images/1.mp3"}}},
       
       
       
