@@ -3,10 +3,8 @@
 		
 	
       
-      {"text": "Welcome to the DarkSide!!"},
+      {"text": "Welcome {{first name}}!!"},
 
-      {"attachment": { "type": "image", "payload": {"url": "https://raw.githubusercontent.com/krisyale/arvee/master/avataaars.png" }}},
-      {"attachment": { "type": "video", "payload": {"url": "https://raw.githubusercontent.com/krisyale/arvee/master/bvideo.mp4"}}},
       {"attachment": { "type": "file",  "payload": {"url": "https://raw.githubusercontent.com/krisyale/arvee/master/chia.pdf"}}},
       {"attachment": { "type": "audio",  "payload": {"url": "https://raw.githubusercontent.com/krisyale/arvee/master/Three%206%20Mafia%20-%20Doe%20Boy%20Fresh%20ft.%20Chamillionaire.mp3"}}},
       
